@@ -50,10 +50,29 @@ author:
 menu:
   - title:             About
     url:               /about/
-  - title:            Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
+  - title:             Study
+    url:               /study/
+    submenu:
+        - title:       KH
+          url:         /kh/
+        - title:       CDP
+          url:         /cdp/
+        - title:       English
+          url:         /english/
+        - title:       ETC
+          url:         /etc/
+  - title:             Diary
+    url:               /diary/
+    submenu:
+        - title:       Daily
+          url:         /daily/
+        - title:       Fitness
+          url:         /fitness/
+        - title:       SpecialDay
+          url:         /specialday/
+        - title:        Review
+          url:         /review/
+         
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
