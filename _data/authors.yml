@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    한걸음 한걸음 발전하는 Kevv 입니다.
+    항상 발전하는 Kevv 입니다.
 
-    Welcome to Kevv's blog !
+    Welcome!
 
   # This photo will be used in the about section
   picture:
