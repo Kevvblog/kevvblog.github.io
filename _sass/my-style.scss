@@ -59,13 +59,13 @@
   color: rgb(46, 125, 218) !important;
 }
 
-.markdown-body > li> p > a{
+.markdown-body > li > p > a{
   font-weight: bold !important;
   color: rgb(46, 125, 218) !important;
 }
 
 
-.markdown-body >blockquote> p > a{
+.markdown-body > blockquote > p > a{
   font-weight: bold !important;
   color: rgb(46, 125, 218) !important;
 }
@@ -75,6 +75,6 @@
   text-decoration-color: rgb(255, 255, 255);    // rgba(79,177,186,0.5)
 }
 
-hy-push-state a {
+.hy-push-state > p > a {
   color: rgb(46, 125, 218) !important;
 }
