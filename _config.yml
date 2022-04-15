@@ -72,6 +72,9 @@ menu:
           url:         /specialday/
         - title:        Review
           url:         /review/
+  - title:             Posts
+    url:               /posts/
+
          
 
 # Add links to the footer.
