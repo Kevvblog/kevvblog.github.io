@@ -74,3 +74,7 @@
 .content a:not(.btn):not(.no-hover) {
   text-decoration-color: rgb(255, 255, 255);    // rgba(79,177,186,0.5)
 }
+
+hy-push-state a {
+  color: rgb(46, 125, 218) !important;
+}
