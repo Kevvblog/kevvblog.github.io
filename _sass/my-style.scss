@@ -60,15 +60,6 @@
   color: rgb(46, 125, 218) !important;
 }
 
-// 컨텐츠 아바타
-.content .avatar {
-  float: right;
-  box-sizing: content-box;
-  border: 0;
-  transition: border-color 1s ease;
-  margin-top: -1.5rem;
-  margin-right: -1rem;
-}
 
 // 링크 밑줄
 .content a:not(.btn):not(.no-hover) {
@@ -190,4 +181,20 @@
 }
 .list-post li.h6{
   margin-top: 0 !important;
+}
+
+// profile avatar image
+.content .avatar {
+  float: left !important;    // 왼쪽으로 보낼지 오른쪽으로 보낼지
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color 1s ease;
+  margin-top: 1px !important;
+  margin-left: 1px !important;
+  width:150px !important; 	// 이미지 크기 
+  height:150px !important;
+}
+.author-body-description {
+  margin-left: 200px !important;  // 소개글 위치 정하기 200px
+  margin-top: 50px !important;      // 20px
 }
