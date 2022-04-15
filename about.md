@@ -12,36 +12,7 @@ hide_description: true
 ***
 
 ## Personal Data
----
-> xx
-> xx
----
-> xx
->
-> xx
-## Research Interest
- 
----
-* x
-+ x
-+ x
-+ x
-* x
-    + x
-    + x
----
-* **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App**
-## Awards
----
-[x](https://www.youtube.com/)
-- [x](x)</a>
-## Work Experiences
----
-x
-x
-/x
+
 ## Skills and Certification
 ---
 -Language : Python, C/C++
