@@ -44,15 +44,6 @@
   color: var(--gray);
 }
 
-.content .avatar {
-  float: right;
-  box-sizing: content-box;
-  border: 0rem solid #525252;
-  transition: border-color 1s ease;
-  margin-top: -1.5rem;
-  margin-right: -1rem;
-}
-
 // 게시물 안에 링크 스타일
 .markdown-body > p > a{
   font-weight: bold !important;
