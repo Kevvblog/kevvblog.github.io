@@ -34,3 +34,21 @@
 .nav-btn-bar {
   height: 3rem;
 }
+
+.post-date {
+  display: flex;
+  justify-content: space-between;
+  margin-top: -0.6rem;
+  height: 2rem;
+  margin-bottom: 2rem;
+  color: var(--gray);
+}
+
+.content .avatar {
+  float: right;
+  box-sizing: content-box;
+  border: 0.5rem solid #525252;
+  transition: border-color 1s ease;
+  margin-top: -1.5rem;
+  margin-right: -1rem;
+}
