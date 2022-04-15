@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/me/me.png
+image: /assets/me/me1.png
 description: >
  한걸음 한걸음 발전해 나가는 Kevv의 블로그 입니다.
 hide_description: true
