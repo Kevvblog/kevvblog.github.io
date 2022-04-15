@@ -2,7 +2,7 @@
 layout: list
 title: Posts
 description: >
-  Every posts in my blog. 
+  Every postings in Kevv's blog. 
 grouped: true
 ---
 
