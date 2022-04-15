@@ -55,10 +55,19 @@
   color: rgb(46, 125, 218) !important;
 }
 
-
 .markdown-body > blockquote > p > a{
   font-weight: bold !important;
   color: rgb(46, 125, 218) !important;
+}
+
+// 컨텐츠 아바타
+.content .avatar {
+  float: right;
+  box-sizing: content-box;
+  border: 0;
+  transition: border-color 1s ease;
+  margin-top: -1.5rem;
+  margin-right: -1rem;
 }
 
 // 링크 밑줄
