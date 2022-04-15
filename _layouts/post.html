@@ -35,6 +35,7 @@ layout: base
 {% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
 
 {% include components/page-button.html %}
+{% include analytics.html %}
 
 <!-- <script>console.log("{{addons}}"); console.log("{{page.addons}}"); console.log("{{site.hydejack.post_addons}}")</script> -->
 {% for addon in addons %}
