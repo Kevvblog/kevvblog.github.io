@@ -12,12 +12,12 @@ description: >
 
 ## Categories
 
-* [KH]{:.heading.flip-title} 
+* [Dev]{:.heading.flip-title} 
 * [CDP]{:.heading.flip-title} 
 * [English]{:.heading.flip-title}
 * [ETC]{:.heading.flip-title} 
 
-[KH]: /study/dev/
+[Dev]: /study/dev/
 [CDP]: /study/cdp/
 [English]: /study/english/
 [ETC]: /study/etc/
