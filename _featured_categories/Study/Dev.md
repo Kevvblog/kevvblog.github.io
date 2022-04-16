@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Study
-permalink: /study/Dev/
+permalink: /study/dev/
 bigtitle: Dev
 slug: dev
 description: >

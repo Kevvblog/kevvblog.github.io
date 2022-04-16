@@ -17,7 +17,7 @@ description: >
 * [English]{:.heading.flip-title}
 * [ETC]{:.heading.flip-title} 
 
-[KH]: /study/kh/
+[KH]: /study/dev/
 [CDP]: /study/cdp/
 [English]: /study/english/
 [ETC]: /study/etc/
