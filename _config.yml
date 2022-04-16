@@ -53,8 +53,8 @@ menu:
   - title:             Study
     url:               /study/
     submenu:
-        - title:       KH
-          url:         /study/kh/
+        - title:       Dev
+          url:         /study/Dev/
         - title:       CDP
           url:         /study/cdp/
         - title:       English

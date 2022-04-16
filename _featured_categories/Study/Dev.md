@@ -1,11 +1,11 @@
 ---
 layout: list
 category: Study
-permalink: /study/kh/
-bigtitle: KH
-slug: kh
+permalink: /study/Dev/
+bigtitle: Dev
+slug: dev
 description: >
-  KH 공부
+  Dev 공부
 
 related_posts:
     - 
