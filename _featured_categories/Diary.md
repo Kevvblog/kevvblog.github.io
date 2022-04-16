@@ -18,6 +18,6 @@ description: >
 * [Review]{:.heading.flip-title} 
 
 [Daily]: diary/daily/
-[Fitness]: /fitness/
-[SpecialDay]: /specialday/
-[Review]: /review/
+[Fitness]: diary/fitness/
+[SpecialDay]: diary/specialday/
+[Review]: diary/review/
