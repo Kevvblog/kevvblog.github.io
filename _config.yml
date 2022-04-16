@@ -65,13 +65,13 @@ menu:
     url:               /diary/
     submenu:
         - title:       Daily
-          url:         /dairy/daily/
+          url:         /diary/daily/
         - title:       Fitness
-          url:         /dairy/fitness/
+          url:         /diary/fitness/
         - title:       SpecialDay
-          url:         /dairy/specialday/
+          url:         /diary/specialday/
         - title:        Review
-          url:         /dairy/review/
+          url:         /diary/review/
   - title:             Posts
     url:               /posts/
 
