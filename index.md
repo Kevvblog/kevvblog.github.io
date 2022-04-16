@@ -11,8 +11,6 @@ hide_description: true
 <!--author-->
 ***
 
-## Personal Data
-
 ## Skills and Certification
 ---
 -Language : Python, C/C++
