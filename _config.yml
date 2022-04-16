@@ -54,7 +54,7 @@ menu:
     url:               /study/
     submenu:
         - title:       Dev
-          url:         /study/Dev/
+          url:         /study/dev/
         - title:       CDP
           url:         /study/cdp/
         - title:       English
