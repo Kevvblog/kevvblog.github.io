@@ -3,6 +3,7 @@ layout: list
 categories:
   - diary
   - daily
+title: dairy/daily
 bigtitle: Daily
 slug: daily
 description: >
