@@ -1,6 +1,8 @@
 ---
 layout: list
-category: Diary
+categories:
+  - diary
+  - review
 bigtitle: Review
 slug: review
 description: >

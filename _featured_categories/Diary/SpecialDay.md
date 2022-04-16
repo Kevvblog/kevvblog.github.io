@@ -1,6 +1,8 @@
 ---
 layout: list
-category: Diary
+categories:
+  - diary
+  - specialday
 bigtitle: SpecialDay
 slug: specialday
 description: >
