@@ -1,6 +1,8 @@
 ---
 layout: list
-category: Diary
+categories:
+  - diary
+  - daily
 bigtitle: Daily
 slug: daily
 description: >
