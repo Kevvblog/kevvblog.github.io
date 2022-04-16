@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Diary
-permalink: /diary/daily
+permalink: /diary/daily/
 bigtitle: Daily
 slug: /diary/daily
 description: >

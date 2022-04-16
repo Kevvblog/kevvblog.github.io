@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Study
-permalink: /study/etc
+permalink: /study/etc/
 bigtitle: ETC
 slug: etc
 description: >

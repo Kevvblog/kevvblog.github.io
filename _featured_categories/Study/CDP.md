@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Study
-permalink: /study/cdp
+permalink: /study/cdp/
 bigtitle: CDP
 slug: cdp
 description: >

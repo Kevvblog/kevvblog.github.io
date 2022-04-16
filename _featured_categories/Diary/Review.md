@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Diary
-permalink: /diary/review
+permalink: /diary/review/
 bigtitle: Review
 slug: review
 description: >

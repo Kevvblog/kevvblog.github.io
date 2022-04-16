@@ -1,7 +1,7 @@
 ---
 layout: list
 category: Diary
-permalink: /diary/fitness
+permalink: /diary/fitness/
 bigtitle: Fitness
 slug: fitness
 description: >

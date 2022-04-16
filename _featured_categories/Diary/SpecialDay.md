@@ -2,7 +2,7 @@
 layout: list
 category: Diary
 bigtitle: SpecialDay
-permalink: /diary/speicalday
+permalink: /diary/speicalday/
 slug: specialday
 description: >
   특별한 일상
