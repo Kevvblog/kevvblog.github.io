@@ -1,6 +1,6 @@
 ---
 layout: list
-category: study
+category: Study
 bigtitle: ETC
 slug: etc
 description: >

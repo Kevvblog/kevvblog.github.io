@@ -17,7 +17,7 @@ description: >
 * [SpecialDay]{:.heading.flip-title}
 * [Review]{:.heading.flip-title} 
 
-[Daily]: /daily/
+[Daily]: diary/daily/
 [Fitness]: /fitness/
 [SpecialDay]: /specialday/
 [Review]: /review/

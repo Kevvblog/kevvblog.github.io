@@ -1,8 +1,8 @@
 ---
 layout: list
-category: dairy
-bigtitle: Daily
-slug: daily
+category: Study
+bigtitle: CDP
+slug: cdp
 description: >
   정보 처리 관련 공부
 

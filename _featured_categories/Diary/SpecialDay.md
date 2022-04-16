@@ -1,6 +1,6 @@
 ---
 layout: list
-category: dairy
+category: Diary
 bigtitle: SpecialDay
 slug: specialday
 description: >

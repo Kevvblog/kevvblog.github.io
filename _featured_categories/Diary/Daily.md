@@ -1,6 +1,6 @@
 ---
 layout: list
-category: dairy
+category: Diary
 bigtitle: Daily
 slug: daily
 description: >
