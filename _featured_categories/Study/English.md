@@ -1,6 +1,7 @@
 ---
 layout: list
 category: Study
+permalink: /study/english
 bigtitle: English
 slug: english
 description: >

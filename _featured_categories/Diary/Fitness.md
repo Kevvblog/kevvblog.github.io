@@ -1,8 +1,7 @@
 ---
 layout: list
-categories:
-  - diary
-  - fitness
+category: Diary
+permalink: /diary/fitness
 bigtitle: Fitness
 slug: fitness
 description: >

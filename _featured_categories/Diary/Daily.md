@@ -1,11 +1,9 @@
 ---
 layout: list
-categories:
-  - diary
-  - daily
-title: dairy/daily
+category: Diary
+permalink: /diary/daily
 bigtitle: Daily
-slug: daily
+slug: /diary/daily
 description: >
   일상 다이어리
 

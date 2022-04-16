@@ -1,9 +1,8 @@
 ---
 layout: list
-categories:
-  - diary
-  - specialday
+category: Diary
 bigtitle: SpecialDay
+permalink: /diary/speicalday
 slug: specialday
 description: >
   특별한 일상

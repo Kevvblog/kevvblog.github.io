@@ -1,6 +1,7 @@
 ---
 layout: list
 category: Study
+permalink: /study/kh
 bigtitle: KH
 slug: kh
 description: >

@@ -54,26 +54,26 @@ menu:
     url:               /study/
     submenu:
         - title:       KH
-          url:         /kh/
+          url:         /study/kh/
         - title:       CDP
-          url:         /cdp/
+          url:         /study/cdp/
         - title:       English
-          url:         /english/
+          url:         /study/english/
         - title:       ETC
-          url:         /etc/
+          url:         /study/etc/
   - title:             Diary
     url:               /diary/
     submenu:
         - title:       Daily
-          url:         /daily/
+          url:         /dairy/daily/
         - title:       Fitness
-          url:         /fitness/
+          url:         /dairy/fitness/
         - title:       SpecialDay
-          url:         /specialday/
+          url:         /dairy/specialday/
         - title:        Review
-          url:         /review/
+          url:         /dairy/review/
   - title:             Posts
-    url:               /posts/
+    url:               /dairy/posts/
 
          
 
