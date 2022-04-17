@@ -226,3 +226,9 @@
   margin-top: 50px !important;      // 20px
 }
 
+.img + em {
+  display: block;
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
