@@ -225,3 +225,39 @@
   margin-left: 200px !important;  // 소개글 위치 정하기 200px
   margin-top: 50px !important;      // 20px
 }
+
+// 게시물 안에 링크 스타일
+.markdown-body > p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+.markdown-body > li> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+
+.markdown-body >blockquote> p > a{
+  font-weight: bold !important;
+  color: rgb(3,102,214) !important;
+}
+
+// 링크 밑줄
+.content a:not(.btn):not(.no-hover) {
+  text-decoration-color: rgba(79,177,186,0.5);    // rgba(79,177,186,0.5)
+
+code{
+  // background-color: #ffffe9;
+  background-color: rgb(251,232,201);
+  border-radius: 5px;
+}
+
+pre > code {
+  font-size: 1.1em !important;
+}
+
+.highlight {
+  color: rgb(201,201,201) !important;
+  background-color: rgb(21, 21, 21);
+}
