@@ -12,9 +12,7 @@ hide_description: true
 ***
 
 ## Personal Data
-
-## Skills and Certification
 ---
--Language : Python, C/C++
--FrameWork: Pytorch, Tensorflow(Keras)
--Certification : CCNA, Internet of Things Knowledge Certification
+- KH 정보교육원에서 교육중
+- Language : Python, Java
+- Certification : 
