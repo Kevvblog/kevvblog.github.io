@@ -20,12 +20,12 @@ url:                   https://kevvblog.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Kevv's Blog
+title:                 Kevvblog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  예비 개발자 Kevv의 블로그 입니다.
+  개발자 Kevv의 블로그 입니다.
 
 # A shorter description for the sidebar.
 tagline:               Have a good day !
